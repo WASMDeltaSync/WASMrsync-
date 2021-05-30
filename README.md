@@ -1,4 +1,4 @@
-# WASMrsync
+# WASMrsync+
 
 Pure Javascript and WebAssembly-based Implementation of rsync.
 
@@ -24,6 +24,6 @@ Pure Javascript and WebAssembly-based Implementation of rsync.
 ## Document
 > Javascript Implementation of rsync algorithm: public/js/bit-sync.js
 > 
-> WASMrsync Client: public/js/sync-client.js
+> WASMrsync+ Client: public/js/sync-client.js
 > 
-> WASMrsync Server: app.js
+> WASMrsync+ Server: app.js
